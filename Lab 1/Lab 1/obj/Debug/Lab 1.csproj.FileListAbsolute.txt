@@ -1,0 +1,14 @@
+C:\Users\andyt\Downloads\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\andyt\Downloads\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\andyt\Downloads\COMP 10204\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\andyt\Downloads\COMP 10204\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\andyt\Downloads\COMP 10204\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\andyt\Downloads\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\andyt\Downloads\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 1\Lab 1\obj\Debug\Lab 1.pdb

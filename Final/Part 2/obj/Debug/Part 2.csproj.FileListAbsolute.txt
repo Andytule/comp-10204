@@ -1,0 +1,6 @@
+C:\Users\Andy's PC\Documents\School\COMP 10204\Final\Part 2\bin\Debug\Part 2.exe.config
+C:\Users\Andy's PC\Documents\School\COMP 10204\Final\Part 2\bin\Debug\Part 2.exe
+C:\Users\Andy's PC\Documents\School\COMP 10204\Final\Part 2\bin\Debug\Part 2.pdb
+C:\Users\Andy's PC\Documents\School\COMP 10204\Final\Part 2\obj\Debug\Part 2.csproj.CoreCompileInputs.cache
+C:\Users\Andy's PC\Documents\School\COMP 10204\Final\Part 2\obj\Debug\Part 2.exe
+C:\Users\Andy's PC\Documents\School\COMP 10204\Final\Part 2\obj\Debug\Part 2.pdb

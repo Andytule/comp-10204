@@ -1,0 +1,10 @@
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\bin\Debug\Lab 3B.exe.config
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\bin\Debug\Lab 3B.exe
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\bin\Debug\Lab 3B.pdb
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\obj\Debug\Lab 3B.csprojAssemblyReference.cache
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\obj\Debug\Lab_3B.Form1.resources
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\obj\Debug\Lab_3B.Properties.Resources.resources
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\obj\Debug\Lab 3B.csproj.GenerateResource.cache
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\obj\Debug\Lab 3B.csproj.CoreCompileInputs.cache
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\obj\Debug\Lab 3B.exe
+C:\Users\andyt\OneDrive\Documents\School\COMP 10204\Lab 3\Lab 3B\obj\Debug\Lab 3B.pdb
